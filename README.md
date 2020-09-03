@@ -6,11 +6,11 @@ I am currently learning React JS and Flutter. I have some development skills wit
 
 My Works :
 - :rocket: I’m currently working on some features on Omni Hotelier Booking Engine
-- :tada: I'm recenty working on Primara Library Project [Prili Primakara](https://primakara.ac.id)
+- :tada: I'm recenty working on [Prili Primakara Library](https://primakara.ac.id)
 - :octocat: Also working on Tattoo Booking Website
 - 🌱 I’m currently learning React JS and Flutter and Want to learan Vue JS Advance or Swift (If i already have Macbook)
 
-You can contact me on [Whatsapp](https://wa.me/6285792362949) and [Linked](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
+You can contact me on [Whatsapp](https://wa.me/6285792362949) and [Linked In](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
 
 Thank you my gorgeous friend on the internet 👋 Haha looks like Dev Ed 🤣
 
