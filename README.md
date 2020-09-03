@@ -1,4 +1,4 @@
-<img src="./tenor.gif" width="100%" data-scr="https://tenor.com/view/cat-typing-gif-10197295" />
+<img src="https://github.com/DarmaYasa/DarmaYasa/blob/master/tenor.gif" width="100%" data-scr="https://tenor.com/view/cat-typing-gif-10197295" />
 
 Hi, I'am Darma Yasa👋 or You can call me Darma, I am a Junior Web Developer. I'm currently working at Omni Hotelier International as a Freelance Junior Web Developer. I have some interest in Wesign and Web Development especially Frontend Development. 
 
