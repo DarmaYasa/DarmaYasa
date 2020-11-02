@@ -6,7 +6,7 @@ I am currently learning React JS and Flutter. I have some development skills wit
 
 My Works :
 - :rocket: I’m currently working on some features on Omni Hotelier Booking Engine
-- :tada: I'm recenty working on [Prili Primakara Library](https://primakara.ac.id)
+- :tada: I'm recenty working on [Prili Primakara Library](https://prili.primakara.ac.id)
 - :octocat: Also working on Tattoo Booking Website
 - 🌱 I’m currently learning React JS and Flutter and Want to learan Vue JS Advance or Swift (If i already have Macbook)
 
