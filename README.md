@@ -12,7 +12,7 @@ My Works :
 
 You can contact me on [Whatsapp](https://wa.me/6285792362949) and [Linked In](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
 
-And Here my [PDF CV](https://1drv.ms/b/s!AkhMkZICKiy-rCfcLi-0RANx33jA) or [Online CV](https://read.cv/dyasa28)
+And Here my [PDF CV](https://drive.google.com/file/d/16qgyh5aaWgIoUHgdQ49g5FNmMkHeC0sS/view?usp=sharing) or [Online CV](https://read.cv/dyasa28)
 
 Thank you my gorgeous friend on the internet 👋 Haha looks like Dev Ed 🤣
 
