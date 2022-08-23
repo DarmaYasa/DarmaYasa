@@ -10,7 +10,7 @@ My Works :
 - :octocat: Also working on some side project with React Native
 - 🌱 I’m currently learning Node JS and Flutter and Want to learn about Django or Golang
 
-You can contact me on [Whatsapp](https://wa.me/6285792362949) and [Linked In](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
+You can contact me on [Whatsapp](https://wa.me/628993792922) and [Linked In](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
 
 And Here my [PDF CV](https://drive.google.com/file/d/16qgyh5aaWgIoUHgdQ49g5FNmMkHeC0sS/view?usp=sharing) or [Online CV](https://read.cv/dyasa28)
 
