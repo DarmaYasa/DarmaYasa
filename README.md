@@ -14,5 +14,7 @@ You can contact me on [Whatsapp](https://wa.me/628993792922) and [Linked In](htt
 
 And Here my [PDF CV](https://drive.google.com/file/d/16qgyh5aaWgIoUHgdQ49g5FNmMkHeC0sS/view?usp=sharing) or [Online CV](https://read.cv/dyasa28)
 
+Gitlab : [Gitlab](https://gitlab.com/dyasa28)
+
 Thank you my gorgeous friend on the internet 👋 Haha looks like Dev Ed 🤣
 
