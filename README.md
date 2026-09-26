@@ -12,7 +12,7 @@ My Works :
 
 You can contact me on [Whatsapp](https://wa.me/628993792922) and [Linked In](https://www.linkedin.com/in/dyasa28) or [Instagram](https://instagram.com/dyasa28)
 
-And Here my [PDF CV](https://drive.google.com/file/d/16qgyh5aaWgIoUHgdQ49g5FNmMkHeC0sS/view?usp=sharing) or [Online CV](https://read.cv/dyasa28)
+And Here my [PDF CV](https://drive.google.com/file/d/1u793_r5q19Z2sMzn-cg4TRq0DS_RXj3w/view) or [Online CV](https://dyasa28.notion.site/I-WAYAN-DARMA-YASA-3e7f50c18f45805d8e0fef22d95fe58e)
 
 Gitlab : [Gitlab](https://gitlab.com/dyasa28)
 
